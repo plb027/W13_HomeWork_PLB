@@ -7,17 +7,17 @@ This repository contains files regarding Project 1.
 This document has the network diagram that shows my entire cloud setup, including Ansible jump box and the Docker containers running on each VM running at LBBP Zone.
 This Azure Diagram Network have:
 
-    **A total of 4 VMs where three are running DVWA and one has Ansible**
-    **3 VMs receiving traffic from the load balancer**
-    **The external access to JumBox is only via ssh (SSH_security_group)**
-    **The external access to WebServices is only via LoadBalancer how is located between security groups**
-    **Azure resource group**
-    **Virtual network with IP address range**
-    **Subnet range**
-    **The flow of specific traffic (e.g. SSH, HTTP)**
-    **The Load Balancer**
-    **All 4 VMs that I have lauched**
-    **Where the Docker and Ansible are deployed**
+    A total of 4 VMs where three are running DVWA and one has Ansible
+    3 VMs receiving traffic from the load balancer
+    The external access to JumBox is only via ssh (SSH_security_group)
+    The external access to WebServices is only via LoadBalancer how is located between security groups
+    Azure resource group
+    Virtual network with IP address range
+    Subnet range
+    The flow of specific traffic (e.g. SSH, HTTP)
+    The Load Balancer
+    All 4 VMs that I have lauched
+    Where the Docker and Ansible are deployed
 
 Image
 ![Network Diagram](https://drive.google.com/file/d/1zOMtk5Cc_iDahrFoXzhI1Qnn4GDJwiKO/view?usp=sharing)
@@ -66,6 +66,7 @@ This script get system info as: free memory, disk usage, list open files and fre
 This script using journalctl to get log info between emergency and critic and report log messages with priority levels between Emergency and Critical
 
 Included the steep-by-steep to:
+
     Grant execution privilege to file
     Command to copy journal_EmergCrit_rpt.sh to daily cron directory
     And how to check cron daily
