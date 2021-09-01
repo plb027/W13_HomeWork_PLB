@@ -25,6 +25,8 @@ This Azure Diagram Network have:
 
 
 # Linux
+You should see below my list of the essential script created by me during the cybersecurity Bootcamp program.
+
 ### Folder: W3_Terminal_Bash
 
 **Script:** `roulette_dealer_finder_by_time.sh` 
