@@ -1,5 +1,6 @@
 # W13_HomeWork_PLB
-This repository contains files regarding Project 1. 
+This repository contains files regarding Project 1.
+See below a summary of the content that you will find inside of each directory. 
 
 
 ## Diagram
@@ -83,3 +84,8 @@ This script is used to show the IPs that Accept Connections Only on the IP list 
 
 
 # Ansible
+On this folder you will find the files used on Ansible everioment:
+
+    host _(named as ansible_host_file - backup)_
+    pentest.yml
+    ansible.cfg
