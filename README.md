@@ -20,8 +20,8 @@ This Azure Diagram Network have:
     Where the Docker and Ansible are deployed
 
 Image
-![Network Diagram](https://drive.google.com/file/d/1zOMtk5Cc_iDahrFoXzhI1Qnn4GDJwiKO/view?usp=sharing)
-![NT](https://drive.google.com/file/d/1zOMtk5Cc_iDahrFoXzhI1Qnn4GDJwiKO/view)
+![Network Diagram](https://github.com/plb027/W13_HomeWork_PLB/blob/main/1_Diagram/DiagramNetwork_PLB.png)
+
 
 
 # Linux
