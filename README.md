@@ -4,7 +4,7 @@ This repository contains files regarding Project 1.
 
 ## Diagram
 ### Diagram of the Network: 
-This document has the network diagram that shows my entire cloud setup, including Ansible jump box and the Docker containers running on each VM running at LBBP Zone 1.
+This document has the network diagram that shows my entire cloud setup, including Ansible jump box and the Docker containers running on each VM running at LBBP Zone.
 This Azure Diagram Network have:
 
  **A total of 4 VMs where three are running DVWA and one has Ansible**
@@ -21,17 +21,18 @@ This Azure Diagram Network have:
 
 Image
 ![Network Diagram](https://drive.google.com/file/d/1zOMtk5Cc_iDahrFoXzhI1Qnn4GDJwiKO/view?usp=sharing)
+![NT](https://drive.google.com/file/d/1zOMtk5Cc_iDahrFoXzhI1Qnn4GDJwiKO/view)
 
 
 # Linux
 ## Directory: W3_Terminal_Bash
 
-**Script: roulette_dealer_finder_by_time.sh** 
+**Script:** `roulette_dealer_finder_by_time.sh` 
 
 This script called roulette_dealer_finder_by_time.sh that can analyze the employee schedule to easily find the roulette dealer at a specific time.
 
 
-**Script: roulette_dealer_finder_by_time_and_game.sh** 
+**Script:** `roulette_dealer_finder_by_time_and_game.sh` 
 
 In case there is future fraud on the other Lucky Duck games, create a shell script called roulette_dealer_finder_by_time_and_game.sh that has the three following arguments:
  _Specific time_
@@ -41,7 +42,7 @@ In case there is future fraud on the other Lucky Duck games, create a shell scri
 
 ## Directory: W4_SysAdmin_Fundamentals
 
-**Script: acconts.sh**
+**Script:** `acconts.sh`
 
 This is a script to automation the process to:
 
@@ -54,12 +55,12 @@ _Change ownership of engineer's shared folder to engineer group_
 
 ## Directory W5_Archiving_and_LoggingData
 
-**Script: system.sh**
+**Script:** `system.sh`
 
 This script get system info as: free memory, disk usage, list open files and free disk space.
 
 
-**Script: cron_automation.sh**
+**Script:** `cron_automation.sh`
 
 This script using journalctl to get log info between emergency and critic and report log messages with priority levels between Emergency and Critical
 
@@ -71,7 +72,7 @@ _And how to check cron daily_
 
 ##Folder: W8_NetworkingFundamentals
 
-**Script: ip-status.sh**
+**Script:** `ip-status.sh`
 
 This script is used to show the IPs that Accept Connections Only on the IP list file RockStarServerIpList.txt.
 
