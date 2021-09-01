@@ -86,6 +86,6 @@ This script is used to show the IPs that Accept Connections Only on the IP list 
 # Ansible
 On this folder you will find the files used on Ansible everioment:
 
-    host _(named as ansible_host_file - backup)_
+    host
     pentest.yml
     ansible.cfg
