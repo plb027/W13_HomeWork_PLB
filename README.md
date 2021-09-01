@@ -19,13 +19,13 @@ This Azure Diagram Network have:
     All 4 VMs that I have lauched
     Where the Docker and Ansible are deployed
 
-Image
+
 ![Network Diagram](https://github.com/plb027/W13_HomeWork_PLB/blob/main/1_Diagram/DiagramNetwork_PLB.png)
 
 
 
 # Linux
-## Folder: W3_Terminal_Bash
+### Folder: W3_Terminal_Bash
 
 **Script:** `roulette_dealer_finder_by_time.sh` 
 
@@ -41,7 +41,7 @@ In case there is future fraud on the other Lucky Duck games, create a shell scri
     Casino game being played
 
 
-## Folder: W4_SysAdmin_Fundamentals
+### Folder: W4_SysAdmin_Fundamentals
 
 **Script:** `acconts.sh`
 
@@ -54,7 +54,7 @@ This is a script to automation the process to:
     Change ownership on the new engineers' shared folder to the engineers group
     Change ownership of engineer's shared folder to engineer group
 
-## Folder: W5_Archiving_and_LoggingData
+### Folder: W5_Archiving_and_LoggingData
 
 **Script:** `system.sh`
 
@@ -72,7 +72,7 @@ Included the steep-by-steep to:
     And how to check cron daily
 
 
-## Folder: W8_NetworkingFundamentals
+### Folder: W8_NetworkingFundamentals
 
 **Script:** `ip-status.sh`
 
