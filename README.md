@@ -7,17 +7,17 @@ This repository contains files regarding Project 1.
 This document has the network diagram that shows my entire cloud setup, including Ansible jump box and the Docker containers running on each VM running at LBBP Zone.
 This Azure Diagram Network have:
 
- **A total of 4 VMs where three are running DVWA and one has Ansible**
- **3 VMs receiving traffic from the load balancer**
- **The external access to JumBox is only via ssh (SSH_security_group)**
- **The external access to WebServices is only via LoadBalancer how is located between security groups**
- **Azure resource group**
- **Virtual network with IP address range**
- **Subnet range**
- **The flow of specific traffic (e.g. SSH, HTTP)**
- **The Load Balancer**
- **All 4 VMs that I have lauched**
- **Where the Docker and Ansible are deployed**
+**A total of 4 VMs where three are running DVWA and one has Ansible**
+**3 VMs receiving traffic from the load balancer**
+**The external access to JumBox is only via ssh (SSH_security_group)**
+**The external access to WebServices is only via LoadBalancer how is located between security groups**
+**Azure resource group**
+**Virtual network with IP address range**
+**Subnet range**
+**The flow of specific traffic (e.g. SSH, HTTP)**
+**The Load Balancer**
+**All 4 VMs that I have lauched**
+**Where the Docker and Ansible are deployed**
 
 Image
 ![Network Diagram](https://drive.google.com/file/d/1zOMtk5Cc_iDahrFoXzhI1Qnn4GDJwiKO/view?usp=sharing)
@@ -35,9 +35,10 @@ This script called roulette_dealer_finder_by_time.sh that can analyze the emplo
 **Script:** `roulette_dealer_finder_by_time_and_game.sh` 
 
 In case there is future fraud on the other Lucky Duck games, create a shell script called roulette_dealer_finder_by_time_and_game.sh that has the three following arguments:
- _Specific time_
- _Specific date_
- _Casino game being played_
+
+_Specific time_
+_Specific date_
+_Casino game being played_
 
 
 ## Directory: W4_SysAdmin_Fundamentals
@@ -70,7 +71,7 @@ _Command to copy journal_EmergCrit_rpt.sh to daily cron directory_
 _And how to check cron daily_
 
 
-##Folder: W8_NetworkingFundamentals
+## Folder: W8_NetworkingFundamentals
 
 **Script:** `ip-status.sh`
 
