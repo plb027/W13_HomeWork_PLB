@@ -1,6 +1,6 @@
 # W13_HomeWork_PLB
 This repository contains files regarding Project 1.
-See below a summary of the content that you will find inside of each directory. 
+XSee below a summary of the content that you will find inside of each directory. 
 
 
 ## Diagram
@@ -8,17 +8,18 @@ See below a summary of the content that you will find inside of each directory.
 This document has the network diagram that shows my entire cloud setup, including Ansible jump box and the Docker containers running on each VM running at LBBP Zone.
 This Azure Diagram Network have:
 
-    A total of 4 VMs where three are running DVWA and one has Ansible
-    3 VMs receiving traffic from the load balancer
+    A total of 5 VMs where 4 are running DVWA and one has Ansible
+    3 VMs receiving traffic from the load balancer and 1 VM on ELK_Vnet provite Kibana service
     The external access to JumBox is only via ssh (SSH_security_group)
     The external access to WebServices is only via LoadBalancer how is located between security groups
+    The external access to ELKServer (SSH & HTTP) via external IP only
     Azure resource group
     Virtual network with IP address range
     Subnet range
     The flow of specific traffic (e.g. SSH, HTTP)
     The Load Balancer
-    All 4 VMs that I have lauched
-    Where the Docker and Ansible are deployed
+    All 5 VMs that I have lauched
+    Where the Docker, Ansible and Kibana are deployed
 
 
 ![Network Diagram](https://github.com/plb027/W13_HomeWork_PLB/blob/main/1_Diagram/DiagramNetwork_PLB.png)
