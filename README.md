@@ -8,7 +8,9 @@ Uploading these files will serve as the official submission of your project." (f
 [Homework: GuitHub Fundamentals and Project 13 Submission guide](https://github.com/plb027/W13_HomeWork_PLB/blob/main/Homework_13_Project.docx)
 
 
-See below a summary of the content that you will find inside of each directory. 
+
+
+# See below a summary of the content that you will find inside of each directory. 
 
 
 
@@ -96,9 +98,9 @@ This script is used to show the IPs that Accept Connections Only on the IP list 
 # Ansible
 On this folder you will find the files used on Ansible everioment:
 
-![DVWA_Playbook.yml](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/DVWA_Playbook.yml)
-![ansible.cfg](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/ansible.cfg)
-![host](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/host)
-![myELK_Playbook.yml](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/myELK_playbook.yml)
-![myFILEBEAT_playbook.yml](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/myFILEBEAT_playbook.yml)
+![DVWA_Playbook.yml](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/DVWA_Playbook.yml) |
+![ansible.cfg](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/ansible.cfg) |
+![host](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/host) |
+![myELK_Playbook.yml](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/myELK_playbook.yml) |
+![myFILEBEAT_playbook.yml](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/myFILEBEAT_playbook.yml) |
 ![myMETRICBEAT_playbook.yml](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/myMETRICBEAT_playbook.yml)
