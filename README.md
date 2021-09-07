@@ -87,6 +87,9 @@ This script is used to show the IPs that Accept Connections Only on the IP list 
 # Ansible
 On this folder you will find the files used on Ansible everioment:
 
-    host
-    pentest.yml
+    DVWA_Playbook.yml
     ansible.cfg
+    host
+    myELK_Playbook.yml
+    myFILEBEAT_playbook.yml
+    myMETRICBEAT_playbook.yml
