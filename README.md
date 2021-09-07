@@ -98,11 +98,10 @@ This script is used to show the IPs that Accept Connections Only on the IP list 
 # Ansible
 On this folder you will find the files used on Ansible everioment:
 
-Markup : * Bullet List
-            * [DVWA Deployment Playbook File](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/DVWA_Playbook.yml) 
-            * [Ansible Configuration File](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/ansible.cfg) 
-            * [Host Configuration File](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/host) 
-            * [ELK Deployment Playbook File](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/myELK_playbook.yml) 
-            * [Filebeat Deployment Playbook File](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/myFILEBEAT_playbook.yml) 
-            * [Metricbeat Deployment Playbook File](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/myMETRICBEAT_playbook.yml)
+1. [DVWA Deployment Playbook File](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/DVWA_Playbook.yml) 
+2. [Ansible Configuration File](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/ansible.cfg) 
+3. [Host Configuration File](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/host) 
+4. [ELK Deployment Playbook File](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/myELK_playbook.yml) 
+5. [Filebeat Deployment Playbook File](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/myFILEBEAT_playbook.yml) 
+6. [Metricbeat Deployment Playbook File](https://github.com/plb027/W13_HomeWork_PLB/blob/main/3_Ansible/myMETRICBEAT_playbook.yml)
 
